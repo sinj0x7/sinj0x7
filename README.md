@@ -1,7 +1,5 @@
-## About ME
 
-<!--
-**si# 💫 About Me:
+# 💫 About Me:
 # Hey, I'm sinj0 👋<br><br>20 y/o programming enthusiast who loves experimenting & breaking things.  <br>• 🌱 Always learning <br>• 🔨 Always tinkering <br>• 🦭 Big fan of seals
 
 
@@ -21,16 +19,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=sinj0x7&icon=6&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->nj0x7/sinj0x7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

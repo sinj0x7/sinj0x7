@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-# Hey, I'm sinj0 👋<br><br>20 y/o programming enthusiast who loves experimenting & breaking things.  <br>• 🌱 Always learning <br>• 🔨 Always tinkering <br>• 🦭 Big fan of seals
+ Hey, I'm sinj0 👋<br><br>20 y/o programming enthusiast who loves experimenting & breaking things.  <br>• 🌱 Always learning <br>• 🔨 Always tinkering <br>• 🦭 Big fan of seals
 
 
 # 💻 Tech Stack:
